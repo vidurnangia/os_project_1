@@ -3,3 +3,7 @@
 
     #10/13 6:30 PM
     I am writing this to test the new session/my ability to stop a session and create a new one. If that works, I hope to use this session to to create the program's strucuture as needed, and to also complete the logger as it seems like the least daunting task.
+
+    #10/13 10:00 PM
+
+I have more or less completed the logger I set out to complete in my previous session. I still need to debug and research more on how to access and manipulate current time in C++. Other than that, I am ready to elaborate on some of the structure I installed in driver.cpp. I have made a checklist of functions.
