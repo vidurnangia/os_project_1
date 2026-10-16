@@ -11,3 +11,7 @@
     #10/15 5:13 PM
 
     I have done a good amount of the driver, but am a little stumped with the extended startChildren process. I understand how to create the pipes and fork the logger children, but after that I don't how to fork the encryption children after entering the child process. Will research and debug in this or a later session. I will also finish the time stuff from logger as I have researched and understood! So this session I hope to complete driver and logger! Debugging to come...
+
+    POST-SESSION: Started on the encryption which I found pretty straigth forward after looking through some notes, but I realize I need to make input validation for this as well that will be snaked through the main
+
+    
