@@ -14,4 +14,10 @@
 
     POST-SESSION: Started on the encryption which I found pretty straigth forward after looking through some notes, but I realize I need to make input validation for this as well that will be snaked through the main
 
-    
+    #10/16 11:50 AM
+
+    Was able to debug the logger and complete the encryption! This next session aims to complete the the driver.
+
+    #10/17 1:30 AM
+
+    I was able to complete coding for all three files. My output is presently very messy and the driver menu is not responding how it should. will use some time to debug!
